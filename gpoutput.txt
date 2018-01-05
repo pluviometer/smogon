@@ -1,0 +1,34 @@
+[b]GP 1/2[/b]
+[b][color=deepskyblue]add[/color][/b] [b][color=red][s]remove[/s][/color][/b] [b][color=limegreen][i]comment[/i][/color][/b]
+[img]http://i.imgur.com/p4pcPhv.gif[/img]
+[hide][SET]
+name: Agility
+move 1: Agility
+move 2: Liquidation
+move 3: Crunch
+move 4: Ice Punch
+item: Life Orb
+ability: Sheer Force
+nature: Jolly
+evs: 252 Atk / 4 Def / 252 Spe
+
+[SET COMMENTS]
+Moves
+========
+
+Agility raises Feraligatr's Speed two stages, letting it outspeed the entire tier, including all common Choice Scarf users. Liquidation is Feraligatr's most powerful STAB option[b][color=red][s], being[/s][/color][/b] [b][color=deepskyblue]and is [/color][/b]further boosted by Sheer Force. Crunch provides great neutral coverage alongside Liquidation, most notably letting it hit Water-types like Tentacruel, Starmie, and Volcanion for solid damage. Ice Punch threatens Grass- and Dragon-types like Amoonguss, Mega Sceptile, and Hydreigon, complementing Liquidation nicely.
+
+Set Details
+========
+
+252 Attack EVs let Feraligatr hit as hard as possible. Maximum Speed investment along with a Jolly nature allow[b][color=deepskyblue]s[/color][/b] Feraligatr to outspeed the whole tier at +2 Speed. Jolly is preferable[b][color=deepskyblue], [/color][/b][b][color=limegreen][i](add comma)[/i][/color][/b] as an Adamant nature leaves Feraligatr outsped by Choice Scarf Latias and Infernape even after an Agility boost. Sheer Force works nicely alongside Life Orb, preventing any recoil and making Feraligatr an incredible offensive threat.
+
+Usage Tips
+========
+
+If aiming to sweep late-game, weaken or remove Feraligatr's checks and counters like Amoonguss, Mantine, and Azumarill before setting up an Agility. However, if brought in early- or mid-game on Pokemon it threatens, Feraligatr can throw out powerful Sheer Force-boosted attacks to whittle its checks down for later on. Feraligatr is often forced to stomach a hit in order to [b][color=deepskyblue]set up[/color][/b], meaning it is preferable to keep it as healthy as possible beforehand.
+
+Team Options
+========
+
+Agility Feraligatr fits best on offensive teams that can adequately support it in cleaning late-game. Grass-types like Mega Sceptile, Celebi, Amoonguss, and Serperior make for ideal partners, threatening bulky Water-types like Rotom-W and Suicune. Mega Manectric and Rotom-W similarly fare well against opposing Water-types while also offering Feraligatr free [b][color=deepskyblue]switches in [/color][/b][b][color=red][s]switch-ins[/s][/color][/b] with Volt Switch. Choice Scarf Dragon-types such as Hydreigon and Latias help cover Feraligatr's poor matchups against fast Grass- and Electric-type Pokemon like Serperior and Mega Manectric. The former can also bring in Feraligatr safely with U-turn[b][color=deepskyblue], [/color][/b][b][color=limegreen][i](add comma)[/i][/color][/b] while the latter can support it with Healing Wish. Wallbreakers such as Heracross and Nidoking punch holes in opposing teams, easing Feraligatr's attempt to clean late-game. Feraligatr is vulnerable to all entry hazards, meaning Defog users like Togekiss and Mega Altaria pair nicely [b][color=deepskyblue]with it [/color][/b]while also covering its initial weakness to opposing Dragon-types. Entry hazard setters like Gliscor, Cobalion, Klefki, and Nihilego are much appreciated, helping to wear down Feraligatr's checks and counters throughout a match.[/hide]
