@@ -81,10 +81,26 @@ signups[quote_rows, 5:ncol(signups)] <- "?"
 # diagnostics
 ######################
 missing <- signups$num[signups[,meta_columns[1]] == "?"] %>% paste(collapse = ", ")
-unscraped <- signups$num[c(TRUE, diff(signups$num) != 1) & signups$num != 2] - 1 
-unscraped <- paste(unscraped, " (pg ", floor(unscraped / 26) + 1, ")", sep = "") %>% paste(collapse = ", ")
-duplicate <- table(signups$user) %>% data.frame %>% filter(Freq > 1) %>% select(Var1) %>% 
-    unlist %>% as.character %>% paste(collapse = ", ")
+
+bad_nums <- factor(signups$num, levels = 1:max(signups$num)) %>% table %>% 
+    data.frame %>% filter(Freq != 1 & `.` != 1)
+colnames(bad_nums) <- c("postnum", "freq")
+bad_nums$postnum <- as.numeric(bad_nums$postnum)
+bad_nums <- bad_nums %>% mutate(pg_estimate = floor(postnum / 26) + 1)
+unscraped <- bad_nums %>% filter(freq < 1)
+duplicate <- bad_nums %>% filter(freq > 1)
+
+if(nrow(unscraped) > 0){
+    unscraped_print <- paste(unscraped$postnum, " (pg ", floor(unscraped$postnum / 26) + 1, ")", sep = "") %>% paste(collapse = ", ")
+}else{
+    unscraped_print <- "none"
+}
+
+if(nrow(duplicate) > 0){
+    duplicate_print <- paste(duplicate$postnum, " (pg ", floor(duplicate$postnum / 26) + 1, ")", sep = "") %>% paste(collapse = ", ")
+}else{
+    duplicate_print <- "none"
+}
 
 n_signups <- rep(NA, length(metas) + 1)
 for(i in 1:length(metas)){
@@ -96,8 +112,8 @@ data.frame(meta = c(metas, "ERROR"), n_signups) %>% arrange(desc(n_signups))
 cat(sep = "",
     "% rows with bad data: ", nrow(signups[signups[,meta_columns[1]] == "?",]) / nrow(signups), "\n\n",
     "Post #s with missing tiers info: ", missing, "\n\n",
-    "Post #s that were not scraped due to unnatural characters: ", unscraped, "\n\n",
-    "Users who appear multiple times: ", duplicate)
+    "Post #s that were not scraped due to unnatural characters: ", unscraped_print, "\n\n",
+    "Post #s that were duplicated by Xenforo: ", duplicate_print)
 
 ######################
 # send to spreadsheets
