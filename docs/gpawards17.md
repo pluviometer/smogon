@@ -3,7 +3,7 @@
 ## GP server
 
 #### Best pinned message
-1. **plumberjack: shoot ---- yourself (12)**
+1. **plumberjack: shoot --- yourself (12)**
 2. I thought memes were pictures... (10)
 3. No one asked you (8)
 4. rwby's eggs (7)
@@ -16,10 +16,10 @@
 4. :buster: (2) ![buster](https://cdn.discordapp.com/emojis/355849943342252032.png)
 
 #### Worst custom emoji
-1. **:smockin: (21)**
-2. :gp: (9)
-3. :pussy: (4)
-4. :pirate: (2)
+1. **:smockin: (21)** ![smockin](https://cdn.discordapp.com/emojis/337810819863543808.png)
+2. :gp: (9) ![gp](https://cdn.discordapp.com/emojis/380513082910310400.png)
+3. :pussy: (4) ![pussy](https://cdn.discordapp.com/emojis/235099774162829313.png)
+4. :pirate: (2) ![pirate](https://cdn.discordapp.com/emojis/338185060719001611.png)
 
 #### Best Discord avatar
 1. **P Squared (13)**
@@ -154,6 +154,7 @@
 
 #### Best GP stamp
 1. **P Squared (13) / Fireflame479 (13)**
+![latios](http://imgur.com/IWR8ikR.gif) ![yoda](http://imgur.com/VMkSDQg.gif)
 
 #### Favorite GP error
 1. **Capitalizing the t in U-turn. While it seems to only be an insignificant error, it actually prevents upload in the SCMS. (12)**
@@ -178,12 +179,12 @@
 2. brightobject (8)
 3. Hulavuta (6)
 
-## Best GP server meme
+#### Best GP server meme
 1. **x is a Sobi alt (13)**
 2. DK rap (10) / Asian fetish (10)
 4. Crux of the set (9)
 
-## Most likely to actually be good at competitive Pokemon
+#### Most likely to actually be good at competitive Pokemon
 1. **Eyan (18)**
 2. Eien (8) / GMars (8)
 
