@@ -10,10 +10,10 @@
 5. I'm not in this photo and I think I should be (noose) (3)
 
 #### Best custom emoji
-1. **:changry: (18)**
-2. :cg: (12)
-3. :v4: (3)
-4. :buster: (2)
+1. **:changry: (18)** ![changry](https://cdn.discordapp.com/emojis/336669226754375681.png)
+2. :cg: (12) ![cg](https://cdn.discordapp.com/emojis/336668604881698816.png)
+3. :v4: (3) ![v4](https://cdn.discordapp.com/emojis/304492326636617729.png)
+4. :buster: (2) ![buster](https://cdn.discordapp.com/emojis/355849943342252032.png)
 
 #### Worst custom emoji
 1. **:smockin: (21)**
