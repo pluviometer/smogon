@@ -37,9 +37,7 @@
 ### Worst username
 1. I love all these lit memes! (14)
 2. plumberjack during holidays (11)
-3. Rakan (4)
-3. rwby (4)
-3. ...wob (4)
+3. Rakan (4) / rwby (4) / ...wob (4)
 
 ## GP server community
 
@@ -66,8 +64,7 @@
 
 ### Nicest user
 1. marthaa (15)
-2. P Squared (10)
-2. talkingtree (10)
+2. P Squared (10) / talkingtree (10)
 
 ### Meanest user
 1. Kris (20)
@@ -86,8 +83,7 @@
 
 ### Biggest ranter
 1. GatoDelFuego (12)
-2. P Squared (7)
-2. Mr. Uncompetitive (7)
+2. P Squared (7) / Mr. Uncompetitive (7)
 4. Hulavuta (6)
 
 ### Best user of emojis
@@ -103,8 +99,7 @@
 ### Favorite C&C staff user
 1. Eyan (12)
 2. Colonel M (9)
-3. Hulavuta (8)
-3. talkingtree (8)
+3. Hulavuta (8) / talkingtree (8)
 5. Arikado (6)
 
 ### Best friendship
@@ -124,8 +119,7 @@
 
 ### Most likely to disappear for 2 months
 1. frenzyplant (12)
-2. horizons (9)
-2. FellFromtheSky(9)
+2. horizons (9) / FellFromtheSky (9)
 4. Rare Poison (6)
 
 ## GP team
@@ -141,8 +135,7 @@
 3. Eyan (8)
 
 ### Most active GPer
-1. marthaa (15)
-1. plumberjack (15)
+1. marthaa (15) / plumberjack (15)
 3. CryoGyro (10)
 
 ### Least active GPer
@@ -160,20 +153,17 @@
 3. Ivy (9)
 
 ### Best GP stamp
-1. P Squared (13)
-1. Fireflame479 (13)
+1. P Squared (13) / Fireflame479 (13)
 
 ### Favorite GP error
 1. Capitalizing the t in U-turn. While it seems to only be an insignificant error, it actually prevents upload in the SCMS. (12)
-2. Being both a turtle and ambush predator I'm going to guess Speed isn't a concern of it. (11)
-2. Crux of the set (11)
+2. Being both a turtle and ambush predator I'm going to guess Speed isn't a concern of it. (11) / Crux of the set (11)
 4. Lack of parallelism (7)
 
 ### Best section to GP for
 1. Social Media (15)
 2. UU (9)
-3. NU (5)
-3. OU (5)
+3. NU (5) / OU (5)
 
 ### Worst section to GP for
 1. ADV NU (11)
@@ -190,20 +180,17 @@
 
 ## Best GP server meme
 1. x is a Sobi alt (13)
-2. DK rap (10)
-2. Asian fetish (10)
+2. DK rap (10) / Asian fetish (10)
 4. Crux of the set (9)
 
 ## Most likely to actually be good at competitive Pokemon
 1. Eyan (18)
-2. Eien (8)
-2. GMars (8)
+2. Eien (8) / GMars (8)
 
 ### Most likely to only be here for a badge
 1. Arikado (10)
 2. Kris (9)
-3. GMars (7)
-3. rwby (7)
+3. GMars (7) / rwby (7)
 
 ### Most likely to be a Sobi alt
 1. A Cake Wearing a Hat (13)
@@ -212,8 +199,7 @@
 
 ### Most likely to have an Asian fetish
 1. GatoDelFuego (10)
-2. Arikado (7)
-2. Hulavuta (7)
+2. Arikado (7) / Hulavuta (7)
 4. Shame That (4)
 
 ### Most likely to have some other fetish
