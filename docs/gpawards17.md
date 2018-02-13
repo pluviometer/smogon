@@ -154,6 +154,7 @@
 
 #### Best GP stamp
 1. **P Squared (13) / Fireflame479 (13)**
+
 ![latios](http://imgur.com/IWR8ikR.gif) ![yoda](http://imgur.com/VMkSDQg.gif)
 
 #### Favorite GP error
