@@ -165,8 +165,8 @@ setwd("~/Smogon")
 # signup components and their regular expressions
 info <- c("signup_name", "tiers", "inactivity")
 regex_info <- c("[Nn]ame[\\s]*:[\\s,]*(.*)",
-                "[Tt]ier[s Pplayedr]*[\\s:,]*(.*)",
-                "[Ii]nactivity[\\s:,]*(.*)")
+                "[Tt]ier[s Pplayedr]*:[\\s,]*(.*)",
+                "[Ii]nactivity\\s?:[\\s,]*(.*)")
 
 # metagames in the format and their regular expressions
 metas <- c("SM UU", "ORAS UU", "BW UU", "DPP UU", "ADV UU", "GSC UU")
