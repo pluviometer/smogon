@@ -5,13 +5,11 @@
 
 # LOAD PACKAGES -----------------------------------------------------------
 
-if(!require(stringr))
-{
+if(!require(stringr)){
     install.packages("stringr")
     library(stringr)
 }
-if(!require(dplyr))
-{
+if(!require(dplyr)){
     install.packages("dplyr")
     library(dplyr)
 }
@@ -70,8 +68,7 @@ process_signups <- function(file_in, info, regex_info, metas, regex_metas){
     }
     
     # fill meta columns
-    for(i in 1:n_metas)
-    {
+    for(i in 1:n_metas){
         signups[, metas[i]] <- sapply(tolower(signups$tiers), mentions_meta, regex_meta = regex_metas[i]) %>% unname
     }
     
