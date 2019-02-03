@@ -3,9 +3,9 @@
 ## GP server
 
 #### Best pinned message
-1. **shut up bitch (16)**
-2. In Gato's head / Hulavuta and Eyan's selfie (7)
-3. Tobey Maguire Spiderman (2)
+1. **shut up bitch (16)** ![shut up bitch](https://i.imgur.com/pPUDZqz.png)
+2. In Gato's head ![gato's head](https://i.imgur.com/KICIg14.png) / Hulavuta and Eyan's selfie (7) ![selfie](https://i.imgur.com/kxUFgW7.png)
+3. Tobey Maguire Spiderman (2) ![spiderman](https://i.imgur.com/BSW4hq7.png)
 
 #### Best custom emoji
 1. **:changry: (11)** ![changry](https://cdn.discordapp.com/emojis/336669226754375681.png)
