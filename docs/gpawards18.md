@@ -3,244 +3,249 @@
 ## GP server
 
 #### Best pinned message
-1. **plumberjack: shoot --- yourself (12)**
-2. I thought memes were pictures... (10)
-3. No one asked you (8)
-4. rwby's eggs (7)
-5. I'm not in this photo and I think I should be (noose) (3)
+1. **shut up bitch (16)**
+2. In Gato's head / Hulavuta and Eyan's selfie (7)
+3. Tobey Maguire Spiderman (2)
 
 #### Best custom emoji
-1. **:changry: (18)** ![changry](https://cdn.discordapp.com/emojis/336669226754375681.png)
-2. :cg: (12) ![cg](https://cdn.discordapp.com/emojis/336668604881698816.png)
-3. :v4: (3) ![v4](https://cdn.discordapp.com/emojis/304492326636617729.png)
-4. :buster: (2) ![buster](https://cdn.discordapp.com/emojis/355849943342252032.png)
+1. **:changry: (11)** ![changry](https://cdn.discordapp.com/emojis/336669226754375681.png)
+2. :kirby: (6) ![kirby](https://cdn.discordapp.com/emojis/420435429008080916.png)
+3. :cg: ![cg](https://cdn.discordapp.com/emojis/336668604881698816.png) / :v4: ![v4](https://cdn.discordapp.com/emojis/304492326636617729.png) (5)
+4. :IAmTheDumbestUserITC: (4) ![smockin](https://cdn.discordapp.com/emojis/337810819863543808.png)
 
 #### Worst custom emoji
-1. **:smockin: (21)** ![smockin](https://cdn.discordapp.com/emojis/337810819863543808.png)
-2. :gp: (9) ![gp](https://cdn.discordapp.com/emojis/380513082910310400.png)
-3. :pussy: (4) ![pussy](https://cdn.discordapp.com/emojis/235099774162829313.png)
-4. :pirate: (2) ![pirate](https://cdn.discordapp.com/emojis/338185060719001611.png)
+1. **:thonkang: (14)** ![thonkang](https://cdn.discordapp.com/emojis/230423423019515907.png)
+2. :sfacepalm: (10) ![sfacepalm](https://cdn.discordapp.com/emojis/345782451714392064.png)
+3. :drakeyes: (3) ![drakeyes](https://cdn.discordapp.com/emojis/343521078422929408.png)
+4. :drakeno: (2) ![drakeno](https://cdn.discordapp.com/emojis/343521281360003074.png)
+
+#### Best Halloween nickname
+1. **:the χ²orcist (χ²) (15)**
+2. A Cake Scaring a Hat (A Cake Wearing a Hat) (9)
+3. boogiebears (yogibears) (4)
+4. Hula's Ween Town (Hulavuta) (3)
+
+#### Worst Halloween nickname
+1. **halloween name (tondas) (14)**
+2. eyevy (Ivy) (9)
+3. BOOtie (Hootie) (6)
+
+#### Best χ² nickname
+1. **:cruχ² of the set (14)**
+2. thank u, neχ²t (11)
+3. the χ²orcist (4)
 
 #### Best Discord avatar
-1. **P Squared (13)**
-2. GatoDelFuego (10)
-3. plumberjack (8)
-4. Kris (5)
+1. **GMars (11)**
+2. Kris (5)
+3. NixHex (4)
+4. Coconut (3)
 
-#### Best username
-1. **bee47 (19)**
-2. SGary (7)
-2. Rare Poisson (7)
-4. Hulalujah (5)
-5. Jollycent (2)
+#### Worst Discord avatar
+1. **Kris (16)**
+2. Rabia (9)
 
-#### Worst username
-1. **I love all these lit memes! (14)**
-2. plumberjack during holidays (11)
-3. Rakan (4) / rwby (4) / ...wob (4)
+#### Best role color picker
+1. **Rare Poison (7)**
+2. Colonel M (6)
+3. talkingtree (5)
+4. GatoDelFuego / Hulavuta / Kris (4)
 
-## GP server community
-
-#### Best chat presence (GPer)
-1. **P Squared (14)**
-2. Mr. Uncompetitive (11)
-3. GatoDelFuego (10)
-4. Haund (7)
-5. CryoGyro (4)
-
-#### Best chat presence (non-GPer)
-1. **Hulavuta (19)**
-2. brightobject (11)
-3. Arikado (7)
-4. Colonel M (5)
-5. Ivy (3)
-
-#### Most helpful user
-1. **plumberjack (14)**
-2. P Squared (13)
-3. marthaa (11)
-4. fleur (10)
-5. CryoGyro (3)
-
-#### Nicest user
-1. **marthaa (15)**
-2. P Squared (10) / talkingtree (10)
-
-#### Meanest user
-1. **Kris (20)**
-2. CryoGyro (10)
-
-#### User who seems nice but is actually mean
-1. **CryoGyro (16)**
+#### Worst role color picker
+1. **Smog staff (14)**
 2. GatoDelFuego (6)
-3. plumberjack (5)
-4. P Squared (4)
-
-#### Biggest gossiper
-1. **GatoDelFuego (12)**
-2. Hulavuta (11)
-3. Haund (9)
-
-#### Biggest ranter
-1. **GatoDelFuego (12)**
-2. P Squared (7) / Mr. Uncompetitive (7)
-4. Hulavuta (6)
-
-#### Best user of emojis
-1. **GatoDelFuego (17)**
-2. Mr. Uncompetitive (6)
-3. P Squared (5)
-
-#### Worst sleep schedule
-1. **Mr. Uncompetitive (14)**
-2. Arikado (13)
-3. P Squared (4)
-
-#### Favorite C&C staff user
-1. **Eyan (12)**
-2. Colonel M (9)
-3. Hulavuta (8) / talkingtree (8)
-5. Arikado (6)
-
-#### Best friendship
-1. **GatoDelFuego + Hulavuta (15)**
-2. Haund + Rare Poison (12)
-3. P Squared + Lemonade (6)
-
-#### Most likely to converse in \#questions
-1. **brightobject (14)**
-2. GatoDelFuego (13)
-3. Mr. Uncompetitive (7)
-
-#### Most likely to snipe the color change
-1. **GMars (13)**
-2. Kris (10)
-3. Arikado (5)
-
-#### Most likely to disappear for 2 months
-1. **frenzyplant (12)**
-2. horizons (9) / FellFromtheSky (9)
-4. Rare Poison (6)
+3. GMars / Indigo Plateau (5)
+4. Kris (1)
 
 ## GP team
 
-#### Best veteran GPer
-1. **plumberjack (17)**
-2. P Squared (13)
-3. fleur (11)
-
-#### Best new GPer
-1. **marthaa (23)**
-2. lotiasite (10)
-3. Eyan (8)
-
 #### Most active GPer
-1. **marthaa (15) / plumberjack (15)**
-3. CryoGyro (10)
+1. **The Dutch Plumberjack (14)**
+2. A Cake Wearing a Hat (6)
+3. CryoGyro (4)
+4. martha (2)
 
-#### Least active GPer
-1. **Rare Poison (19)**
-2. GatoDelFuego (8)
-3. Mr. Uncompetitive (6)
+#### Most helpful GPer
+1. **A Cake Wearing a Hat (13)**
+2. The Dutch Plumberjack (9)
+3. fleurdyleurse (7)
+4. CryoGyro (5)
+5. Fireflame (3)
 
-#### Worst GPTL
-1. **Goddess Briyella (16)**
-2. GatoDelFuego (15)
+#### Best GPer
+1. **The Dutch Plumberjack (20)**
+2. A Cake Wearing a Hat (3)
+3. fleurdyleurse (2)
 
-#### Best amchecker
-1. **Xayah (11)**
-2. MeButYou82 (10)
-3. Ivy (9)
+#### Best veteran GPer
+1. **The Dutch Plumberjack (13)**
+2. P Squared (12)
+3. Calm Pokemaster (4)
 
-#### Best GP stamp
-1. **P Squared (13) / Fireflame479 (13)**
-
-![latios](http://imgur.com/IWR8ikR.gif) ![yoda](http://imgur.com/VMkSDQg.gif)
-
-#### Favorite GP error
-1. **Capitalizing the t in U-turn. While it seems to only be an insignificant error, it actually prevents upload in the SCMS. (12)**
-2. Being both a turtle and ambush predator I'm going to guess Speed isn't a concern of it. (11) / Crux of the set (11)
-4. Lack of parallelism (7)
+#### Most promising amchecker
+1. **Estronic (9)**
+2. Hulavuta (8)
+3. Rabia (5)
 
 #### Best section to GP for
-1. **Social Media (15)**
-2. UU (9)
-3. NU (5) / OU (5)
+1. **Facebook spotlights (12)**
+2. OU (6)
+3. UU (4)
+4. NU (3)
 
-#### Worst section to GP for
-1. **ADV NU (11)**
-2. Flying Press (10)
-3. Ubers (9)
-4. PU (4)
+## Chat
 
-## GP server memes
+#### Best chat presence (GPer)
+1. **P Squared (12)**
+2. GatoDelFuego (9)
+3. Mr. Uncompetitive (8)
+4. Rare Poison (6)
+
+#### Best chat presence (non-GPer)
+1. **Hulavuta (15)**
+2. brightobject / mellowyellowhd (9)
+3. London (4)
+4. Ivy (2)
+
+#### Nicest user
+1. **P Squared (11)**
+2. lotiasite (10)
+3. frostration (8)
+4. A Cake Wearing a Hat / Rakan (6)
+5. Colonel M / Haund / Mr. Uncompetitive / Rare Poison (4)
+6. Hulavuta (3)
+7. allstarapology (2)
+8. mellowyellowhd (1)
+9. Kris (0)
+
+#### Meanest user
+1. **Kris (22)**
+2. GatoDelFuego (4)
+
+#### User who seems nice but is actually mean
+1. **martha (10)**
+2. Mr. Uncompetitive (7)
+3. Flora (5)
+4. The Dutch Plumberjack (3)
 
 #### Memest user
-1. **GatoDelFuego (18)**
-2. brightobject (8)
-3. Hulavuta (6)
+1. **GatoDelFuego (14)**
+2. brightobject (10)
+3. Hulavuta (8)
 
-#### Best GP server meme
-1. **x is a Sobi alt (13)**
-2. DK rap (10) / Asian fetish (10)
-4. Crux of the set (9)
+#### Funniest user
+1. **brightobject (12)**
+2. Hulavuta (9)
+3. GMars (8)
 
-#### Most likely to actually be good at competitive Pokemon
-1. **Eyan (18)**
-2. Eien (8) / GMars (8)
+#### Spammiest user
+1. **Kris (11)**
+2. Hulavuta (10)
+3. GatoDelFuego (7)
 
-#### Most likely to only be here for a badge
-1. **Arikado (10)**
-2. Kris (9)
-3. GMars (7) / rwby (7)
+#### Biggest nerd
+1. **Mr. Uncompetitive (11)**
+2. GatoDelFuego (8)
+3. The Dutch Plumberjack (3)
 
-#### Most likely to be a Sobi alt
-1. **A Cake Wearing a Hat (13)**
-2. Ivy (10)
-3. marthaa (7)
+#### Most woke user
+1. **P Squared (9)**
+2. GatoDelFuego (8)
+3. Hulavuta (7)
+4. Kris (4)
 
-#### Most likely to have an Asian fetish
+#### Most likely to post inappropriate content
+1. **Arikado (14)**
+2. fleurdyleurse (8)
+3. Hulavuta (5)
+
+#### GPer most likely to use the wrong your/you're in casual chat
 1. **GatoDelFuego (10)**
-2. Arikado (7) / Hulavuta (7)
-4. Shame That (4)
+2. Kris / Mr. Uncompetitive (7)
 
-#### Most likely to have some other fetish
-1. **Hulavuta (Star Wars, spanking, dentists, painters, fanfiction authors, nose rings only on the right nostril, girls with short hair, that thing where you tie your sweater around your waist, girls with armpit hair) (14)**
-2. Arikado (like every fetish ever, especially pee) (12)
-3. rwby (eggs) (8)
-4. GatoDelFuego (feet, bloodplay) (7)
+#### Best user of emojis
+1. **CryoGyro (12)**
+2. Rare Poison (7)
+3. GatoDelFuego (6)
 
-#### Best non-Asian
-1. **plumberjack (12)**
-2. GMars (9)
-3. Haund (8)
-4. GatoDelFuego (7)
+#### Best friendship
+1. **GatoDelFuego + Hulavuta + brightobject + Mr. Uncompetitive (15)**
+2. Rare Poison + Haund + Rakan (9)
 
-#### Biggest Snapchat presence
-1. **P Squared (10)**
-2. GatoDelFuego (7)
-3. Arikado (6)
-4. Hulavuta (4)
+## Fun
 
-#### Biggest Redditor
-1. **Mr. Uncompetitive (14)**
-2. P Squared (10)
+#### Best GP meme
+1. **Asian fetish** (12)
+2. GatoDelFuego (11)
+3. There's a man in my building (5)
 
-#### Best non-Pokemon video game
-1. **Legend of Zelda (10)**
-2. Donkey Kong Country (9)
-3. Ace Attorney (8)
-4. Dota 2 (3)
-5. Star Fox (1)
+#### Most likely to attend Gato's wedding
+1. **GatoDelFuego (20)**
+2. Hulavuta (5)
+3. Rakan (3)
+4. P Squared (2)
 
-#### Best video game soundtrack
-1. **Pokemon Platinum (12)**
-2. Legend of Zelda (8)
-3. Donkey Kong Country (7)
-4. Final Fantasy (5)
+#### Most likely to ruin Gato's wedding
+1. **GatoDelFuego, by being there :pirate: / P Squared by rudely announcing her unsolicited distaste of heterosexuality during the ceremony (15)**
+2. Goddess Briyella showing up and lowercasing the T in U-turn live to upload to the CMS (6)
+
+#### Most likely to correct someone's grammar in real life
+1. **fleurdyleurse / Kris (12)**
+2. P Squared (3)
+
+#### Next predicted return date for yogibears
+1. **Tomorrow (9)**
+2. March 12, 2019 (7)
+3. February 16, 2019 (4)
+4. December 22, 3334 (3)
+5. April 28, 2019 (1)
+
+#### Worst GP server mod
+1. **kaushik** (13)
+2. GatoDelFuego (11)
+
+#### Favorite banned Smogon user
+1. **BKC / Bloo / Stratos (7)**
+2. yan\[sogeking] (3)
+
+#### Most interesting Smogon happening of 2018
+1. **Analysis credits (13)**
+2. GatoDelFuego and Hulavuta retiring / Shiny badges (7)
+3. Zygarde's ban (5)
 
 #### Best
-1. **yes (11)**
-2. PART OF WAKING UP IS FOLGERS IN YOUR CUP (10)
-3. P Squared (6)
-4. Mr. E (4)
+1. **yes** (9)
+2. https://www.youtube.com/watch?v=5vRlJrkxsqo&ab_channel=THEBESTTHEBESTTHEBE / intentions? Some of the worst things imaginable have been done with the "best intentions". You know, as far as I'm concerned, you're no better than the people who built this place. (6)
+3. Haund / Rabia (3)
+4. Mr.E (1)
+
+## The world outside of GP
+
+#### Best Pokemon game 
+1. **Heart Gold / Soul Silver (10)** 
+2. Platinum (9)
+3. Emerald (7)
+
+#### Best video game soundtrack
+1. **Pokemon (11)**
+2. Donkey Kong Country (8)
+3. Ace Attorney (7)
+4. Earthbound / Legend of Zelda (5)
+5. Celeste / The World Ends With You / Va-11 HALL-A (1)
+
+#### Favorite movie of 2018
+1. **Avengers: Infinity War (10)**
+2. Spider-Man: Into the Spider-Verse (8)
+3. Black Panther (5)
+4. Game Night / Love, Simon (3)
+
+#### Favorite video game of 2018
+1. **Super Smash Brothers Ultimate (18)**
+2. Celeste (4)
+3. NBA 2019 (3)
+
+#### Favorite music of 2018
+1. **Crab Rave (Noisestorm) (9)**
+2. thank u, next (Ariana Grande) (7)
+3. SLOW DANCING IN THE DARK (Joji) (5)
+4. Neon Impasse (City Girl) / Shallow (Lady Gaga) (2)
