@@ -8,14 +8,14 @@
 3. bo saying hey to himself ![hey bo](https://lh6.googleusercontent.com/QdiJF6Sbp0Xwa_qQqWff0gzmWoXYcwbEXFLQPi0NZcm5s2ZlTsjKHsTpwueSVb9mZMAD1HJ8XZ8SSHaYLZltgE04haMSYRudjn2g48nAFmRJZb1Tun3W0IEjswc5asrx_PM0beDXibW46tE)
 
 #### Best custom emoji
-1. **:slamma:** ![slamma](https://cdn.discordapp.com/emojis/336669226754375681.png)
-2. :cg: ![cg](https://cdn.discordapp.com/emojis/420435429008080916.png)
-3. :kermit: ![kermit](https://cdn.discordapp.com/emojis/336668604881698816.png)
+1. **:slamma:** ![slamma](https://lh5.googleusercontent.com/L63qt2tv2rMQSMqlELQ51DTAuhD07gic3NhdzlvyzmIyvaOp42hy7awPFqg468HAof12dkJgiTL4YqIl91KVBaIZEPC2nwuKB_40J0WbRJtmBBvL2uIh_vMawMK167LGPIwAmPO5sxw_0Vs)
+2. :cg: ![cg](https://lh4.googleusercontent.com/fywnVUTEkluwahtm5bhMHwFcCHPUThTcS0zsn1ZNsaDSuUZtB1iMNoVivTFmPy-g9YVwOKOQntPT7WjcPCTlD6KaMt2uySk4MyzAbif5O932EaWOLgxS5ciiNLEChVDivM1gGkULO8klzPY)
+3. :kermit: ![kermit](https://lh4.googleusercontent.com/KZZsczswgeBz7WOno8HRaE7ZwtYgEzBpx3TakLDakTzlDT1PRYsfY8Nyd1fsK3s3bcdAF70RgZ0lnL50kaKeMunC349zb8WWBJiafOQL_-qU-4wZzrGjMcEqWuNX386KBJVjw0Ud9Fw9QL4)
 
 #### Worst custom emoji
-1. **:IAmTheDumbestUserITC:** ![smockin](https://cdn.discordapp.com/emojis/230423423019515907.png)
-2. :togekiss: ![togekiss](https://cdn.discordapp.com/emojis/345782451714392064.png)
-3. :sfacepalm: ![sfacepalm](https://cdn.discordapp.com/emojis/343521078422929408.png)
+1. **:IAmTheDumbestUserITC:** ![smockin](https://lh4.googleusercontent.com/p--32nE2vesqz1-0Df-y6ZypH3ZM1fE2KLU2lBTVXIVSbh-3NgPG-YqDuqXgymeNqY3IQpN02BXHN_3WtcnKXZajB3-ogdVjyAWLbd4q6K56B48w-VsM5k_gt_Bpv0j-z9deyU3XmwLVWSo)
+2. :togekiss: ![togekiss](https://lh4.googleusercontent.com/6IBVHrT8fUBHMgt2tlOMj4v7eBdfYNUl3mG0pY5ZuAwMxPX3_Y5vxRVX92W2zKLtyBCu1r6PSelgSIFUaFRg11S-hLzEQXZGnrpwWefz5FsPy2soN5GC-ErJf9LXgJVx7C5HQsLhfHl94tY)
+3. :sfacepalm: ![sfacepalm](https://lh5.googleusercontent.com/ANtWL_74qtFsyVOCvQAjeu2qu0v-RkON2LiklzmXBVAX9L3lYYdEc-H_gXBJMKIkFoWxPxiIWPP0dmm9lf340kaVHsZSevULb6BFmBaDQSFUVWw_wFK41oA7BC5KHDLsSfXeG0RydMN9p5o)
 
 #### Best nickname
 1. **fuck you arikado!! (Arikado) / hallowee47 (bee47)**
