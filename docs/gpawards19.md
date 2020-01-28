@@ -41,7 +41,7 @@
 3. Estronic
 
 #### Most helpful GPer
-1. **CryoGyro / Rabia **
+1. **CryoGyro / Rabia**
 2. deetah
 
 #### Best GPer
@@ -189,7 +189,7 @@
 #### Do your best Hulavuta impression
 1. **When I was a kid my nephews would always ask me to twist their nipples ahaha. But I never did it because I was more focused on learning guitar until one time they were waiting in line at the water fountain then i twisted their nipples because i didnt know it was a sexual thing. It was so weird when i got called to my dad's office lol**
 2. omg!!!!!!!! everyone just HATES me today!!!!! i'm gonna kick a fire hydrant later!!!!!!!!!!!!!!!!!!!
-3. <insert meme only gato and bo understand here>
+3. insert meme only gato and bo understand here
 4. cat cowboy: meowdy
 
 #### Suggest a new hobby for P Squared
@@ -236,7 +236,7 @@
 2. Mega Man
 3. Fire Emblem
 
-#### Best 2019 video game**
+#### Best 2019 video game
 1. **Luigi's Mansion 3**
 2. Devil May Cry V / Untitled Goose Game
 
