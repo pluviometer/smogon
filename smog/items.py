@@ -16,3 +16,4 @@ class SmogItem(scrapy.Item):
         time2 = scrapy.Field()
         user = scrapy.Field()
         text = scrapy.Field()
+        likes = scrapy.Field()
