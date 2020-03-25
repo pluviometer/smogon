@@ -1,16 +1,23 @@
 # README ------------------------------------------------------------------
 
-# This script is written by Smogon user P Squared. Send me a VM on the 
-# Smogon forums if you have any questions!
+# This script is written by Smogon user P Squared. Send me a VM on the Smogon
+# forums or PM me on Discord at pluviometer#0350 if you have any questions!
 
 # LOAD PACKAGES -----------------------------------------------------------
 
-if(!require(stringr)){
+if(!require(stringr))
+{
     install.packages("stringr")
     library(stringr)
 }
-if(!require(dplyr)){
+if(!require(dplyr))
+{
     install.packages("dplyr")
+    library(dplyr)
+}
+if(!require(magrittr))
+{
+    install.packages("magrittr")
     library(dplyr)
 }
 
@@ -19,11 +26,11 @@ if(!require(dplyr)){
 # similar to grepl but returns "y" and "" instead of TRUE and FALSE, as
 # required by the auction bot
 mentions_meta <- function(cell, regex_meta){
-    if(grepl(regex_meta, cell)){
-        # if text matches the user-specified regular expression
-        return("y")
-    }else if(grepl("(?<!\\w)(all|any|everything)(?! \\w)", cell, perl = TRUE)){
+    if(grepl("(?<!\\w)(all|any|everything)(?! \\w)", cell, perl = TRUE)){
         # if text is exclusively "all", "any", or "everything"
+        return("y")
+    }else if(grepl(regex_meta, cell)){
+        # if text matches the user-specified regular expression
         return("y")
     }else
         # not a match
@@ -43,13 +50,14 @@ trim_comma <- function(cell){
 
 # converts scraped thread data into a CSV with added columns for each part
 # of the signup format and each metagame in the tournament
-process_signups <- function(file_in, info, regex_info, metas, regex_metas){
+process_signups <- function(file_in, info, regex_info, metas, regex_metas, managers = c()){
 
 # UPKEEP ------------------------------------------------------------------
     
     # read input file; remove OP and specific timestamp; set URL
     signups <- read.csv(filepath, stringsAsFactors = FALSE)
-    signups <- signups %>% filter(num != 1) %>% select(-time2)
+    signups$num <- 1:nrow(signups)
+    #signups <- signups %>% filter(num != 1) %>% select(-time2)
     signups$link <- paste0("https://www.smogon.com", signups$link)
     
     # keep track of numbers of columns
@@ -77,6 +85,9 @@ process_signups <- function(file_in, info, regex_info, metas, regex_metas){
     cols_metas <- (ncol(signups) - n_metas + 1):(ncol(signups))
 
 # IDENTIFY PROBLEMATIC SIGNUPS --------------------------------------------
+    
+    # remove posts from managers
+    signups <- signups %>% filter(!(user %in% managers))
     
     # posts that may say something like "everything except old gens"
     negations <- c(" but ", " besides ", " except ", " not ", " minus ", 
@@ -148,6 +159,10 @@ process_signups <- function(file_in, info, regex_info, metas, regex_metas){
     file_parts <- unlist(strsplit(file_in, "\\."))
     file_out <- paste0(file_parts[1], "_out.", file_parts[2])
     
+    # NEW: FIX LIKES
+    signups$likes <- signups$likes %>% str_extract("and \\d+ others") %>% str_extract("\\d+") %>% 
+        as.numeric %>% add(3)
+    
     write.csv(signups, file_out, row.names = FALSE)
     
     # return signup data frame
@@ -155,22 +170,31 @@ process_signups <- function(file_in, info, regex_info, metas, regex_metas){
 }
 
 # INPUT ------------------------------------------------------------------
-                        
-# example: UUPL
+
+############# OUPL
 # set file i/o
-file_in <- "uupl.csv"
+file_in <- "uupl20.csv"
 filepath <- paste0("~/Programming Folders/My Python Files/Scraping/smog/", file_in)
 setwd("~/Smogon")
 
 # signup components and their regular expressions
-info <- c("signup_name", "tiers", "inactivity")
+info <- c("signup_name", "tiers", "timezone")
 regex_info <- c("[Nn]ame[\\s]*:[\\s,]*(.*)",
-                "[Tt]ier[s Pplayedr]*:[\\s,]*(.*)",
-                "[Ii]nactivity\\s?:[\\s,]*(.*)")
+                "[Tt]ier[s Pplayedr]*[\\s:,]*(.*)",
+                "[Tt]ime\\s?zone[\\s:]*(.*)")
 
 # metagames in the format and their regular expressions
-metas <- c("SM UU", "ORAS UU", "BW UU", "DPP UU", "ADV UU", "GSC UU")
-regex_metas <- c("su?m\\s?", "\\boras", "\\bbw", "\\bdpp", "adv\\b", "gsc")
+metas <- c("SS", "USM", "ORAS", "BW", "DPP", "ADV", "GSC")
+regex_metas <- c("\\bss\\b",
+                 "\\bu?su?m\\b",
+                 "\\b(oras|xy)",
+                 "\\bbw\\b",
+                 "\\bdpp\\b",
+                 "\\badv\\b",
+                 "\\gsc\\b")
+                        
+
+managers <- c("P Squared")
 
 # create spreadsheet
-signups <- process_signups(file_in, info, regex_info, metas, regex_metas)
+signups <- process_signups(file_in, info, regex_info, metas, regex_metas, managers)
