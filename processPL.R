@@ -1,7 +1,227 @@
+
+Save New Duplicate & Edit Just Text Twitter
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
+161
+162
+163
+164
+165
+166
+167
+168
+169
+170
+171
+172
+173
+174
+175
+176
+177
+178
+179
+180
+181
+182
+183
+184
+185
+186
+187
+188
+189
+190
+191
+192
+193
+194
+195
+196
+197
+198
+199
+200
+201
+202
+203
+204
+205
+206
+207
+208
+209
+210
+211
+212
+213
+214
+215
+216
+217
+218
 # README ------------------------------------------------------------------
 
-# This script is written by Smogon user P Squared. Send me a VM on the Smogon
-# forums or PM me on Discord at pluviometer#0350 if you have any questions!
+# This script is written by Smogon user P Squared. Send me a VM on the 
+# Smogon forums if you have any questions!
 
 # LOAD PACKAGES -----------------------------------------------------------
 
@@ -57,14 +277,23 @@ process_signups <- function(file_in, info, regex_info, metas, regex_metas, manag
     # read input file; remove OP and specific timestamp; set URL
     signups <- read.csv(filepath, stringsAsFactors = FALSE)
     signups$num <- 1:nrow(signups)
-    #signups <- signups %>% filter(num != 1) %>% select(-time2)
+    signups <- signups %>% filter(num != 1) %>% select(-time2)
     signups$link <- paste0("https://www.smogon.com", signups$link)
     
     # keep track of numbers of columns
     n_default <- ncol(signups)
     n_info <- length(info)
     n_metas <- length(metas)
-
+    
+    # identify column numbers
+    num_col <- match("num", names(signups))
+    time_col <- match("time", names(signups))
+    link_col <- match("link", names(signups))
+    user_col <- match("user", names(signups))
+    num_col <- match("num", names(signups))
+    text_col <- match("text", names(signups))
+    likes_col <- match("likes", names(signups))
+    
 # POPULATE NEW COLUMNS ----------------------------------------------------
 
     # fill info columns
@@ -83,6 +312,8 @@ process_signups <- function(file_in, info, regex_info, metas, regex_metas, manag
     # keep track of newly created columns
     cols_info <- n_default + 1:n_info
     cols_metas <- (ncol(signups) - n_metas + 1):(ncol(signups))
+    tiers_col <- match("tiers", names(signups))
+    cols_info_custom <- cols_info[!(cols_info %in% tiers_col)]
 
 # IDENTIFY PROBLEMATIC SIGNUPS --------------------------------------------
     
@@ -99,8 +330,10 @@ process_signups <- function(file_in, info, regex_info, metas, regex_metas, manag
     rows_quoted <- grepl(" said:", signups$text)
     
     # overwrite problematic signups with question marks
-    signups[(rows_negated | rows_empty | rows_quoted), cols_metas] <- "?"
-    signups[rows_quoted, cols_info] <- "?"
+    signups[(rows_negated | rows_empty | rows_quoted), cols_metas] <- ""
+    signups[rows_quoted, cols_info] <- ""
+    signups[is.na(signups[,tiers_col]), tiers_col] <- "(didn't follow format)"
+    
     
 # REPORT PROBLEMS ---------------------------------------------------------
 
@@ -160,8 +393,11 @@ process_signups <- function(file_in, info, regex_info, metas, regex_metas, manag
     file_out <- paste0(file_parts[1], "_out.", file_parts[2])
     
     # NEW: FIX LIKES
-    signups$likes <- signups$likes %>% str_extract("and \\d+ others") %>% str_extract("\\d+") %>% 
-        as.numeric %>% add(3)
+    signups$likes <- signups$likes %>% as.numeric %>% add(3)
+    signups[is.na(signups[,likes_col]),likes_col] <- "3 or under"
+    
+    # reorder
+    signups <- signups[,c(num_col, time_col, link_col, user_col, cols_metas, tiers_col, text_col, likes_col, cols_info_custom)]
     
     write.csv(signups, file_out, row.names = FALSE)
     
@@ -173,27 +409,29 @@ process_signups <- function(file_in, info, regex_info, metas, regex_metas, manag
 
 ############# OUPL
 # set file i/o
-file_in <- "uupl20.csv"
+file_in <- "snake20.csv"
 filepath <- paste0("~/Programming Folders/My Python Files/Scraping/smog/", file_in)
 setwd("~/Smogon")
 
 # signup components and their regular expressions
-info <- c("signup_name", "tiers", "timezone")
+info <- c("player_name", "tiers", "timezone")
 regex_info <- c("[Nn]ame[\\s]*:[\\s,]*(.*)",
-                "[Tt]ier[s Pplayedr]*[\\s:,]*(.*)",
-                "[Tt]ime\\s?zone[\\s:]*(.*)")
+                "[Pp]layed[\\s]*:[\\s]*(.*)",
+               # "[Ii]nactivity:[\\s,]*(.*)")
+                "[Tt]ime\\s?zone[\\s:,]*(.*)")
+               # "[Aa]vailability[\\s:,]*(.*)")
 
 # metagames in the format and their regular expressions
-metas <- c("SS", "USM", "ORAS", "BW", "DPP", "ADV", "GSC")
-regex_metas <- c("\\bss\\b",
-                 "\\bu?su?m\\b",
-                 "\\b(oras|xy)",
-                 "\\bbw\\b",
-                 "\\bdpp\\b",
-                 "\\badv\\b",
-                 "\\gsc\\b")
-                        
-
+metas <- c("OU", "DOU", "UU", "RU", "NU", "PU", "LC")
+regex_metas <- c("\\bo(ver)?u(sed)?\\b",
+                 "\\bdou",
+                 "u(nder)?u(sed)?\\b",
+                 "r(arely)?u(sed)?\\b",
+                 "n(ever)?u(sed)?\\b",
+                 "pu\\b",
+                 "l(ittle )?c(up)?\\b")
+                 
+# if you want to automatically remove posts from managers, enter their usernames here
 managers <- c("P Squared")
 
 # create spreadsheet
