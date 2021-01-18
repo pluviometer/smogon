@@ -17,7 +17,7 @@
 
 #### Worst custom emoji
 1. **:poggaroo:** ![pog](https://lh6.googleusercontent.com/f6ircFkYYvJbLgmlJwdYkw33ui2R1wE9JSoFAGpS4Z-x8ERNDsQ8uB6uniHnKAmLPwC2EVyoVLOnB2baKU2iQs2RQtNrWiEpYSmW8cFkJlfMZ5HqcJPTPdTcqiEObN0GnAUlN7Z1Hzszz-s7)
-2. :unpoggroo: ![unpog](https://lh6.googleusercontent.com/9RKwOOgpuBiLNsGDaR8mIHW4ciWYWrOsdH0GEKqQpJNI8eRWaDH_JAJVLChNQzPDjxC9-RMC1Pq5fOhLpN_U67_7jroS_t2UpIj0qZN7i_X7urw3RlNJvDNYJ5zERn0qNG1jPVxi9bnVjpTO)
+2. :unpoggaroo: ![unpog](https://lh6.googleusercontent.com/9RKwOOgpuBiLNsGDaR8mIHW4ciWYWrOsdH0GEKqQpJNI8eRWaDH_JAJVLChNQzPDjxC9-RMC1Pq5fOhLpN_U67_7jroS_t2UpIj0qZN7i_X7urw3RlNJvDNYJ5zERn0qNG1jPVxi9bnVjpTO)
 
 #### Best username or nickname
 1. **Losco Jones (Haund)**
