@@ -3,10 +3,10 @@
 ## GP server
 
 #### Best message pinned in 2020
-1. ![kt3's number one](https://lh6.googleusercontent.com/JbJOzkybHlTSZdqnvPu37hd02q93t_ax_3TjYjA8BEktu71pBzonqN51HQlPBruz6ijSWpOtXQ_o5dTi586xJdLo-8a25nAzJLvYr5aX8S2CA2ghdlEgsUU1rTwRu9gjXAT8wSAsnrIWpWsQ) **kt3's earliest memory**
-2. ![what](https://lh4.googleusercontent.com/NpZzP66RF9oB124kkHjf20-VlEt0_flK-9Fa-S-N_M6UOrjF3pXnnogdX16pu3aXYYoyR8syX0mZxmPOi_0_j8if4kh4CbGizUxaE_6KSaBMfmfXST5J0xOazoMGG9sQxDb6_iSX1z43GZnQ) He's talking about Reddit upvotes
-3. ![it sure does](https://lh6.googleusercontent.com/aKzwPqNfFzZrReonzV63iaokOJLuM613DL1_zCXj-gAt4TFlaiJBB9cdA-0pKihjT5mC_56VYDz96y71T7rQ3dtUmUR_Fl9BUFXVJbTDLbeAyXSDOlfvO6DsMHOz7TLoks6RL1KgOwdRV4tw) Tempus fugit 
-4. ![looks like this nomination bombed](https://lh3.googleusercontent.com/jBpW7ASSQf0DV255QAwaPBHuXVg9LKdPz1QV9SMq-QLJmBAuQNw3CPw6Ud0DF9iP0s1Pycm1f5LX8LGU750V_6h07WVcESrHXTh50VGIhrBcqKW4tp6qVlbr5JqF6msFHlBadB2DEgguSGaW) Super Bomb
+1. **kt3's earliest memory** ![kt3's number one](https://lh6.googleusercontent.com/JbJOzkybHlTSZdqnvPu37hd02q93t_ax_3TjYjA8BEktu71pBzonqN51HQlPBruz6ijSWpOtXQ_o5dTi586xJdLo-8a25nAzJLvYr5aX8S2CA2ghdlEgsUU1rTwRu9gjXAT8wSAsnrIWpWsQ)
+2. He's talking about Reddit upvotes ![what](https://lh4.googleusercontent.com/NpZzP66RF9oB124kkHjf20-VlEt0_flK-9Fa-S-N_M6UOrjF3pXnnogdX16pu3aXYYoyR8syX0mZxmPOi_0_j8if4kh4CbGizUxaE_6KSaBMfmfXST5J0xOazoMGG9sQxDb6_iSX1z43GZnQ)
+3. Tempus fugit  ![it sure does](https://lh6.googleusercontent.com/aKzwPqNfFzZrReonzV63iaokOJLuM613DL1_zCXj-gAt4TFlaiJBB9cdA-0pKihjT5mC_56VYDz96y71T7rQ3dtUmUR_Fl9BUFXVJbTDLbeAyXSDOlfvO6DsMHOz7TLoks6RL1KgOwdRV4tw)
+4. Super Bomb ![looks like this nomination bombed](https://lh3.googleusercontent.com/jBpW7ASSQf0DV255QAwaPBHuXVg9LKdPz1QV9SMq-QLJmBAuQNw3CPw6Ud0DF9iP0s1Pycm1f5LX8LGU750V_6h07WVcESrHXTh50VGIhrBcqKW4tp6qVlbr5JqF6msFHlBadB2DEgguSGaW)
 
 #### Best custom emoji
 1. **:boi:** ![boi](https://lh6.googleusercontent.com/j4dTikNP2kZrvJbEtOMDEv4e3Rg-5t5zAoyBE3sGdTZfZF5334L4mjX9h9_ZXiN8GPjX-y9sE-fvvF52NuafZdVy-HDz5Oqx8LB8jMl3ixVY0Guv2T9i92PEZsnnYuyXKpBri1w4wnwLiQur)
