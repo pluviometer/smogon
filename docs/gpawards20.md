@@ -131,7 +131,7 @@
 3. [Spinarak :)](https://lh3.googleusercontent.com/MhBalWM_o2uyRBpSanRFKeNiZUHW-ZqjoQipwwMG9izc2WwV0z25VC-IJ4iOO53Vcf7EU7asWuHenwzzkn-Y3sJvMGCFJtElBtkQEC4O6n5hWp7EwrgfKOvKgMRp-GuXw_zvd8zs1VQWJhMK) / [Walawar](https://lh3.googleusercontent.com/KJyfPSl-3eAC9GuIeKUg7m-950lSClWFt4GLs263Vz5SfLtl5_iyO7aS2SV1gITMoqCLFuPX7-R8NyYwHJyOrVzh-WYvtqS-lB5KZoS2E-4MbISTX4vi6sLTEHD3ezo1M42joUl8MqzNN6ce)
 
 #### Worst Skribblio drawing
-1. [**Furfrou 8|**](https://lh6.googleusercontent.com/6zvh8mfZqQKcBHcY25jAjK1xzWmV87dGnIAGedzw6pn49115_TBUiTZIqPJdYwqLerCCmw7_LhAAZpI4inuq289McumeTaA7r4RvuM-JTnxT-SCVhwfu-CGS6LcGvuIIBQ56DrSzSFrVomjd)
+1. [**Furfrou 8\|**](https://lh6.googleusercontent.com/6zvh8mfZqQKcBHcY25jAjK1xzWmV87dGnIAGedzw6pn49115_TBUiTZIqPJdYwqLerCCmw7_LhAAZpI4inuq289McumeTaA7r4RvuM-JTnxT-SCVhwfu-CGS6LcGvuIIBQ56DrSzSFrVomjd)
 2. [Greninja :)](https://lh6.googleusercontent.com/IJmkWgLl302Hpcehi3Io655fuwkeRETuEwxKjEk3KQBv39kwJmtRcMlMLIWOCIcDtxNrQprBgLjGryzq6snYI5yth1lhOKSbCoJmEsPCmNavpNq_hMPQZioRGAlhjQNMMvO9FD3u6sqiHXtI)
 3. [Yveltal :)](https://lh6.googleusercontent.com/-7vmboUTzvU30nTJX_NgSLm6P6l7-L3TyNYAZPFeUhV63cUszYv3hh6GVF4479pJhoRJKVevQjK6862NLDYTrdDA-iLYbMKXVSuMJxbz0Q5_F_bHwVsS1IDa9eIpuSDeLGXqK9sC77cudC9Q)
 
