@@ -46,10 +46,6 @@
 1. **The Dutch Plumberjack**
 2. kt3
 
-#### Most improved GPer
-1. **deetah**
-2. Rabia
-
 #### Favorite GPTL
 1. **The Dutch Plumberjack**
 2. Estronic
