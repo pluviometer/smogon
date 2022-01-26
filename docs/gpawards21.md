@@ -20,15 +20,15 @@
 ![gamer full of love](https://lh5.googleusercontent.com/649A-8bW2NOnVywHr-oOPmi_ifQobvlNPc8dkC6re5l8dEk4R5IoiY-w-c2i24jWy_J21bwhg7jPW0MHxPxmZUZaSvDciwFO6WFt2GGIZgSs1uahBOEMWj1pQj8u8AqwsQ=w260)
 
 #### Best message pinned of all time
-1. **shut up bitch** 
+1\. **shut up bitch** 
 
 ![shut up](https://lh5.googleusercontent.com/Vj3XSXf9nOCe1fHYznl6ZE5oQxzAN1sTLF4RUJMAHu9n_vZmWwOgFCSC5SC9P1iIrzrYzw27rNvxeXzzQ6yukP9F_QBD1WXTmFbzZXyJ-yholZINv_46Ea00R77aoojl9Q=w260)
 
-2. Hula + Eyan meetup 
+2\. Hula + Eyan meetup 
 
 ![hula eyan meetup](https://lh6.googleusercontent.com/_v-rzVKMVZd0-k6XbXH5-lxSAkVeLZ31bxOzESHpnuPdA0FQAcdz5tuIoMgfZ3niob7u_3LQQ53sCU8rMVseS9maoAVXT6mi6rsrWbX02C9drAH00svYVc7tzlsqY3pJqg=w260)
 
-3. Laughing so hard at Big Wheel 
+3\. Laughing so hard at Big Wheel 
 
 ![big wheel](https://lh4.googleusercontent.com/j5bFXyVAqLVaz-fItYQryplvoA66g3ufymnFYsGRm8LuiGiZgHP7sWG6BDpNYJC_xhCW-qos9LzZdsd0CmlKgwtnVDu1v7kl9mlqGAoWEAv758j7Lqy-RrmcJPO-6t5syw=w260)
 
